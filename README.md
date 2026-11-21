@@ -14,7 +14,7 @@ These are the five required projects built to earn the certification:
 | 4 | **Product Landing Page** | [Live Demo](#) | [Code](./04-product-landing-page) | CSS Grid, Flexbox, Embedded Video, Sticky Header |
 | 5 | **Personal Portfolio Webpage** | [Live Demo](#) | [Code](./05-personal-portfolio) | Responsive Layout, Viewport Units, CSS Variables |
 
-*(Note: Replace `#` with your GitHub Pages or CodePen links, and update the `./folder-name` paths to match your repository structure.)*
+<!--*(Note: Replace `#` with your GitHub Pages or CodePen links, and update the `./folder-name` paths to match your repository structure.)*-->
 
 ## Practice Projects & Courses
 
